@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(220, 220, 158)
+}
+h1, p, footer {
+    text-align: center;
+}
+.croissant-photo {
+    width: 300px;
+    border-radius: 10px;
+    margin: 30px auto;
+}
+img {
+    display: block;
+}
+footer a {
+    margin: 0 10px;
+    color:cornflowerblue
+}
